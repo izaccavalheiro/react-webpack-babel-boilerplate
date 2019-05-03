@@ -52,7 +52,7 @@ Esse comando cria o pacote utilizando as informações padrões coletadas do dir
       },
       plugins: [
         new HtmlWebPackPlugin({
-          template: './index.html',
+          template: './src/index.html',
           filename: './index.html'
         })
       ]
