@@ -176,16 +176,29 @@ A SPA pode ser acessada a partir do endereço http://localhost:8080/, de acordo 
 ## Informações adicionais
 
 Node.js: Plataforma construída em cima do motor de Javascript do Google Chrome.
+
 NPM: "Node.js Package Manager" Gerenciador de pacotes para Javascript.
+
 React: Biblioteca declarativa para construção de interfaces (front-end).
+
 React-DOM: Biblioteca auxiliar do React utilizada para acessar o DOM.
+
 Webpack: Gerador/Empacotador de módulos Javascript.
+
 webpack-cli: Linha de comando do Webpack.
+
 webpack-dev-server: Servidor de teste para o desenvolvimento aplicações com Webpack.
+
 @babel/core: Compilador de Javascript.
+
 html-loader: Exportador de HTML como string.
+
 html-webpack-plugin: Plugin do Webpack que simplifica a criação dos arquivos HTML que serão utilizados para servir a SPA. 
+
 @babel/preset-env: Biblioteca auxiliar do Babel utilizada para permitir o uso das versões mais recentes do Javascript (ES 5, ES 6, ES 7 etc).
+
 @babel/preset-react: Biblioteca auxiliar do Babel utilizada para permitir o uso com React.
+
 babel-loader: Biblioteca auxiliar do Babel utilizada para permitir o uso com Webpack.
+
 babel-runtime: Biblioteca auxiliar do Babel
