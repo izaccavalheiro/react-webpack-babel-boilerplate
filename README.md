@@ -173,6 +173,9 @@ A SPA pode ser acessada a partir do endereço http://localhost:8080/, de acordo 
 
 [https://github.com/izaccavalheiro/react-webpack-babel-boilerplate](https://github.com/izaccavalheiro/react-webpack-babel-boilerplate)
 
+    npm i
+    npm start
+
 ## Informações adicionais
 
 Node.js: Plataforma construída em cima do motor de Javascript do Google Chrome.
