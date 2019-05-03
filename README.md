@@ -87,7 +87,7 @@ Esse comando cria o pacote utilizando as informações padrões coletadas do dir
       </body>
     </html>
 
-**8. Dentro da pasta src, criar o arquivo de entrada ou carregamento da SPA conforme abaixo.**
+**8. Dentro da pasta src, criar o arquivo de entrada da SPA conforme abaixo.**
 
 #### src/index.js
 
