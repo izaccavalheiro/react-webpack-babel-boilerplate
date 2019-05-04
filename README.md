@@ -1,6 +1,6 @@
 # Criando um projeto de SPA com React
 
-A seguir temos um passo-a-passo para começar um projeto de SPA com React utilizando apenas Webpack e Babel. Não iremos utilizar o Create React App.
+A seguir temos um passo-a-passo para começar um projeto de SPA com React utilizando apenas Webpack e Babel. Não utilizaremos o Create React App.
 
 > Nota: Antes de iniciar o tutorial é necessário instalar o Node.js https://nodejs.org/.
 
