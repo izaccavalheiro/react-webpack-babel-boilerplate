@@ -163,11 +163,11 @@ O seu arquivo deve ficar assim:
 
     npm start
 
+A SPA pode ser acessada a partir do endereço http://localhost:8080/, de acordo com a configuração padrão do Webpack.
+
 ## Conclusão
 
 Este é um passo-a-passo simples para iniciar um projeto básico de uma Single Page Application (SPA) em React com o mínimo necessário.
-
-A SPA pode ser acessada a partir do endereço http://localhost:8080/, de acordo com a configuração padrão do Webpack.
 
 ## Código-fonte
 
