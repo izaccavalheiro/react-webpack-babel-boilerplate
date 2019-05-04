@@ -87,7 +87,7 @@ Esse comando cria o pacote utilizando as informações padrões coletadas do dir
       </body>
     </html>
 
-**8. Dentro da pasta src, criar o arquivo de entrada da SPA conforme abaixo.**
+**8. Dentro da pasta src, criar o arquivo de inicialização da SPA conforme abaixo.**
 
 #### src/index.js
 
@@ -165,7 +165,7 @@ O seu arquivo deve ficar assim:
 
 ## Conclusão
 
-Este é um passo-a-passo simples para iniciar um projeto básico de uma Single Page Application em React com o mínimo necessário.
+Este é um passo-a-passo simples para iniciar um projeto básico de uma Single Page Application (SPA) em React com o mínimo necessário.
 
 A SPA pode ser acessada a partir do endereço http://localhost:8080/, de acordo com a configuração padrão do Webpack.
 
