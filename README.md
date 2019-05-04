@@ -122,7 +122,7 @@ O seu arquivo deve ficar assim:
 #### package.json
 
     {
-      "name": "react-webpack-babal-boilerplate",
+      "name": "react-webpack-babel-boilerplate",
       "version": "1.0.0",
       "description": "",
       "main": "index.js",
@@ -133,14 +133,14 @@ O seu arquivo deve ficar assim:
       },
       "repository": {
         "type": "git",
-        "url": "git+https://github.com/izaccavalheiro/react-webpack-babal-boilerplate.git"
+        "url": "git+https://github.com/izaccavalheiro/react-webpack-babel-boilerplate.git"
       },
       "author": "",
       "license": "ISC",
       "bugs": {
-        "url": "https://github.com/izaccavalheiro/react-webpack-babal-boilerplate/issues"
+        "url": "https://github.com/izaccavalheiro/react-webpack-babel-boilerplate/issues"
       },
-      "homepage": "https://github.com/izaccavalheiro/react-webpack-babal-boilerplate#readme",
+      "homepage": "https://github.com/izaccavalheiro/react-webpack-babel-boilerplate#readme",
       "dependencies": {
         "react": "^16.8.6",
         "react-dom": "^16.8.6"
